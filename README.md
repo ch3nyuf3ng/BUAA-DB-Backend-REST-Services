@@ -31,4 +31,3 @@
 1. 在运行 uvicorn 后访问 http://127.0.0.1:8000/docs/ 可查看后端的 API，并测试。
 2. setup_admin 中包含初始化的管理员信息。
 3. API 文档页右上角的 Authentication 可以登录初始化的管理员账号密码，测试所有 API。
-4. 
